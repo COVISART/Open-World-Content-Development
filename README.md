@@ -28,7 +28,7 @@ CC4->MarvelousDesigner->Blender->MixamaAnimation->UE4
             - Material isimleri düzenlenecek
             - FBX olarak export edilecek
     Mixama:
-            - Skeleton basic olarak yapılacak
+            - Skeleton basic(no finger) olarak yapılacak
             - Walk Animasyonu eklenecek
 
 
