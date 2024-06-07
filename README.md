@@ -40,10 +40,18 @@ CC4->MarvelousDesigner->Blender->MixamaAnimation->UE4
 - Model işlemi tamamlandığı zaman yeni aşamaya alınmadan önce comment bölümünde güncel resimi koyulacak. 
 - Model durumu Done ise öncelik derecesi kaldırılacak
 
-# Repo Links:
-- ssh://git-codecommit.eu-north-1.amazonaws.com/v1/repos/CV_Models_Vehicle
-- ssh://git-codecommit.eu-north-1.amazonaws.com/v1/repos/CV_Models_Building
-- ssh://git-codecommit.eu-north-1.amazonaws.com/v1/repos/CV_Models_Character
-- ssh://git-codecommit.eu-north-1.amazonaws.com/v1/repos/CV_OpenWorld_GE
-- ssh://git-codecommit.eu-north-1.amazonaws.com/v1/repos/OpenWorld_Database
-- ssh://git-codecommit.eu-north-1.amazonaws.com/v1/repos/CV_UnrealEngine_Vehicle
+# AWS Links:
+ Repos:
+ 
+     Models:
+        - ssh://git-codecommit.eu-north-1.amazonaws.com/v1/repos/CV_Models_Vehicle
+        - ssh://git-codecommit.eu-north-1.amazonaws.com/v1/repos/CV_Models_Building
+        - ssh://git-codecommit.eu-north-1.amazonaws.com/v1/repos/CV_Models_Character
+        - ssh://git-codecommit.eu-north-1.amazonaws.com/v1/repos/CV_UnrealEngine_Vehicle
+     Maps Repo:
+        - ssh://git-codecommit.eu-north-1.amazonaws.com/v1/repos/CV_OpenWorld_GE
+        - ssh://git-codecommit.eu-north-1.amazonaws.com/v1/repos/OpenWorld_Database
+        - ssh://git-codecommit.eu-north-1.amazonaws.com/v1/repos/CV_Islahiye_1
+        - ssh://git-codecommit.eu-north-1.amazonaws.com/v1/repos/CV_Islahiye_2
+        - ssh://git-codecommit.eu-north-1.amazonaws.com/v1/repos/CV_Map_Lalapasa
+        - ssh://git-codecommit.eu-north-1.amazonaws.com/v1/repos/OpenWorld_Maps
