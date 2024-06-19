@@ -56,3 +56,4 @@ CC4->MarvelousDesigner->Blender->MixamaAnimation->UE4
         - ssh://git.covisart.com.tr/v1/repos/CV_Islahiye_2
         - ssh://git.covisart.com.tr/v1/repos/CV_Map_Lalapasa
         - ssh://git.covisart.com.tr/v1/repos/OpenWorld_Maps
+        - ssh://git.covisart.com.tr/v1/repos/OpenWorld_UE5
